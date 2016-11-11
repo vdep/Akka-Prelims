@@ -1,2 +1,2 @@
 # Akka-Prelims
-learning about Akka Actors
+Sample program to send status messages between two Akka Actors. 
